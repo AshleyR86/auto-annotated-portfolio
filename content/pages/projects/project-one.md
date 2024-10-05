@@ -7,7 +7,7 @@ client: You
 description: Want to chat with me? Click here to start a live conversation.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/me.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
