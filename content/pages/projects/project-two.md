@@ -7,7 +7,7 @@ client: You
 description: 'Got a question? Type it here, and I''ll get back to you.'
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/asking-questions.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
