@@ -63,7 +63,7 @@ topSections:
           placeholder: Tell me about your project
           width: full
           isRequired: true
-      submitLabel: Send Message
+      submitLabel: Send
       elementId: contact-form
       styles:
         submitLabel:
