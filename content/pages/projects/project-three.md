@@ -12,7 +12,8 @@ featuredImage:
 bottomSections:
   - type: ContactSection
     title: Contact Me
-    text: I'm look forward to hearing from you.
+    text: |
+      Upload you document here
     form:
       type: FormBlock
       title: Title of the form
