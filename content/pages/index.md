@@ -141,4 +141,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/me.jpg
 ---
