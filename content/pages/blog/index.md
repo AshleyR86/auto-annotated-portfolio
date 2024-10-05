@@ -26,7 +26,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
-  subtitle: gh
+  subtitle: ''
 styles:
   title:
     textAlign: left
