@@ -12,8 +12,7 @@ featuredImage:
 bottomSections:
   - type: ContactSection
     title: Upload your document here
-    text: |
-      Upload you document here
+    text: ''
     form:
       type: FormBlock
       title: Title of the form
