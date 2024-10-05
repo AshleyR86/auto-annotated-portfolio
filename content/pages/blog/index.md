@@ -29,4 +29,8 @@ postFeed:
 styles:
   title:
     textAlign: left
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
