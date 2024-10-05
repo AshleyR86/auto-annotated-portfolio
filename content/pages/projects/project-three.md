@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Upload Your Work
 colors: colors-a
-date: '2024-10-22'
+date: '2024-10-05'
 client: You
 description: 'Need feedback? Upload your work here, and I''ll review it.'
 featuredImage:
