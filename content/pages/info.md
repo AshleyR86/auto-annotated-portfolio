@@ -99,7 +99,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/optics-physics-white-light-shines-through-prism_168058-1209.avif
       altText: Hero image
     styles:
       self:
