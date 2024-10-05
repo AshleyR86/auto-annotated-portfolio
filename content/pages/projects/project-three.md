@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 bottomSections:
   - type: ContactSection
-    title: Contact Me
+    title: Upload your document here
     text: |
       Upload you document here
     form:
