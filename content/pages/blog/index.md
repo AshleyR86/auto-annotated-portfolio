@@ -36,7 +36,7 @@ metaTags:
     content: ''
 topSections:
   - type: ContactSection
-    title: Contact Me
+    title: ''
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
