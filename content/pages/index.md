@@ -113,7 +113,7 @@ sections:
           name: Enquiry
           label: Enquiry
           hideLabel: false
-          placeholder: Your name
+          placeholder: What's your question?
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
