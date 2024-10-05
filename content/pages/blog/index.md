@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Upload your document here
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
