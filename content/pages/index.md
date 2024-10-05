@@ -111,7 +111,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Enquiry
-          label: Name
+          label: Enquiry
           hideLabel: false
           placeholder: Your name
           width: full
