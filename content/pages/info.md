@@ -13,11 +13,90 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Welcome to Ashley 2.0 – Your Virtual Assistant!
+
+
+      This page will guide you on how to use the site to get the most out of
+      your virtual assistant. Whether you need help with assignments, feedback
+      on your work, or just a quick chat to clarify a concept, Ashley 2.0 is
+      here for you!
+
+
+
+
+      1\. **Ask a Question**
+
+
+      Need help with a topic or have a quick question? You can use the **Ask a
+      Question** feature to type your questions directly into the chat, and I’ll
+      provide guidance as quickly as possible.
+
+
+      **How to ask a question**:
+
+
+      1.  Go to the “Ask a Question” section on the home page.
+
+
+      2.  Type your question in the text box.
+
+
+      3.  Hit **Submit** and wait for a response. I’ll provide an answer or
+      direct you to the best resources to help.
+
+
+
+
+      2\. **Upload Your Work**
+
+
+      Have some working out or an assignment you’d like reviewed? Upload it
+      directly to the site, and I’ll give you feedback.
+
+
+      **How to upload your work**:
+
+
+      1.  Navigate to the “Upload Work” section.
+
+
+      2.  Click the **Upload** button and select the image or file you want to
+      submit.
+
+
+      3.  Once uploaded, I’ll review it and provide feedback or suggest ways to
+      improve.
+
+
+      Supported file formats: PDF, JPEG, PNG.
+
+
+
+
+      3\. **Live Chat**
+
+
+      Need to discuss something in real-time? You can chat live with me. Whether
+      you’re stuck on a concept or need quick clarification, I’m just a message
+      away.
+
+
+      **How to start a live chat**:
+
+
+      1.  Click on the **Live Chat** button at the top of the page.
+
+
+      2.  A chat window will open where you can type your questions and receive
+      answers in real-time.
+
+
+      3.  You’ll receive instant help, and if I don’t know the answer right
+      away, I’ll guide you to the right resources.
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
