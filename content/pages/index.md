@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello! Welcome to ashley 2.0
-    subtitle: 'Ask questions, upload work, and chat live—I''m here to help :)'
+    subtitle: 'Ask questions, upload work, and chat live — I''m here to help :)'
     styles:
       self:
         height: auto
